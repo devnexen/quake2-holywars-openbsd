@@ -3,6 +3,8 @@
 #include "g_local.h"
 #include "m_player.h"
 
+#include "g_ctf.h"
+
 char *ClientTeam (edict_t *ent)
 {
 	char		*p;

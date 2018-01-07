@@ -3,6 +3,8 @@
 #include "g_local.h"
 #include "m_player.h"
 
+#include "g_ctf.h"
+
 // HOLY WARS
 // HWv2.1
 #include "stdlog.h"	//	StdLog - Mark Davies

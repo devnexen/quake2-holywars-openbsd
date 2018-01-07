@@ -273,19 +273,19 @@ void HW_BecomeHeretic(edict_t *p)
 
         // take out all armor, cells, slugs, grenades and rockets
 		// (version 2.0 only took out cells)
-        if (it = FindItem("Jacket Armor"))
+        if ((it = FindItem("Jacket Armor")))
         	p->client->pers.inventory[ITEM_INDEX(it)] = 0;
-        if (it = FindItem("Combat Armor"))
+        if ((it = FindItem("Combat Armor")))
         	p->client->pers.inventory[ITEM_INDEX(it)] = 0;
-        if (it = FindItem("Body Armor"))
+        if ((it = FindItem("Body Armor")))
         	p->client->pers.inventory[ITEM_INDEX(it)] = 0;
-        if (it = FindItem("Cells"))
+        if ((it = FindItem("Cells")))
         	p->client->pers.inventory[ITEM_INDEX(it)] = 0;
-        if (it = FindItem("Slugs"))
+        if ((it = FindItem("Slugs")))
         	p->client->pers.inventory[ITEM_INDEX(it)] = 0;
-        if (it = FindItem("Grenades"))
+        if ((it = FindItem("Grenades")))
         	p->client->pers.inventory[ITEM_INDEX(it)] = 0;
-        if (it = FindItem("Rockets"))
+        if ((it = FindItem("Rockets")))
         	p->client->pers.inventory[ITEM_INDEX(it)] = 0;
 
 		// Reduce health to 50 max
