@@ -1,0 +1,118 @@
+Holy Wars Version History
+-------------------------
+(Note: this file registers publicly distributed versions only)
+
+* 2.21 SE (April 26, 1999)
+
+-> Fixed: server crashing due to "Info string length exceeded"
+-> Added: GNU/gcc Makefile to the source code for unix developers
+-> Changed: hwdedic.bat and server.cfg to agree on options
+-> Changed: motd.txt to reflect the new server number
+
+
+* 2.2 SE (February 8, 1999)
+
+-> Merged with Quake 2 3.20 source code.  New support for visible weapons,
+   spectator mode and chase cam, CTF-style player ID, and sv_maplist map
+   rotation.
+-> New pak file for resources.  New model for halo.
+-> New map - UltraViolence by Escher.
+-> Fixed: halo only makes a sound when colliding with another entity.
+-> Fallen halo can be shot and bounced around (optional).
+-> Changed detailed scoreboard to optional rather than cycling it with the
+   standard scoreboard.  Exec sb_cycle.cfg to restore the cyclic behavior.
+-> New menu system for MOTD, inventory, spectator mode, player ID, and
+   scoreboard preferences.
+-> Changed param.ini settings to console variables (see server.cfg).
+
+
+* 2.1 (09/04/98)
+
+-> Becoming an heretic is easier by default, takes out most of your 
+   stuff/health and gives negative frags (SCORE_BecomeHeretic param).
+-> Killing an Heretic gives you 3 juicy frags.
+-> Players getting many neg. frags cannot shoot (SCORE_Llama param).
+-> New scoreboard/statistics.
+-> New MOTD.
+-> Parameters are now parsed at each start of level.
+-> Weaker power armor (same as CTF).
+-> BFGs turned into Hyperblasters by default (MISC_UseBFG param).
+-> Some new sounds for heretics.
+-> Compliant to the Quake II Logging Standard 1.2 (used by GibStats and others).
+-> New MISC_IntermissionTime parameter to configure intermission length.
+-> Players can now throw verbal abuses and comments during intermissions.
+-> Rocket Arena menu system integrated in code.
+-> Fixed: Demos now work.
+-> Fixed: Small graphics problem with swarms of flies.
+-> Fixed: HW6 textures.
+-> Fixed: Telefrags/respawn telefrags problem.
+-> Fixed: Disconnect/reconnect Q2 problem fixed, code cleaned.
+-> Fixed: Visible teleporter destinations hacked out from HW6
+-> Fixed: The usual minor things.
+
+
+* 2.00 (04/09/98)
+
+-> First Quake II version! Everything has been rewritten in C.
+-> Completely new sounds.
+-> New system for adapting new maps to Holy Wars with a simple console
+   command.
+-> Holy Wars can now be played on unsupported maps as well. 
+-> A fallen Halo will now disappear very soon and take a while before respawning.
+-> New external configurable server connection message. 
+-> External parameters for people who like to play with things.
+-> Advanced customizable map rotation system.
+-> Complete heresy system.
+-> All single player stuff stripped away from code (much smaller DLL).
+-> Halo movement optimized for Internet games - inertia off by default.
+-> Lots of other changes: new halo skin, stuff... Well, you get the idea. 
+   It's a total rewrite, after all.
+
+
+* 1.5 Special Edition (26/01/98) 
+
+-> 5 supported maps from Escher included!
+-> Source included in official distribution. 
+
+
+* 1.41 (11/04/97) 
+
+-> Aww... I credited the head skin to the wrong artist. The only changes 
+   from 1.4 are in this TXT file. 
+
+
+* 1.4 (11/03/97) 
+
+-> Client-side support: new sounds and models. 
+-> Support for skins. 
+-> No-lag option for Internet servers. 
+-> Built-in support for some new maps. 
+-> Minor stuff. 
+
+
+* 1.2 (06/04/1997) 
+
+-> Statistics at the end of the game and with IMPULSE 60. 
+-> Support for all of id's maps. 
+-> The Halo is now teleported with the owner, to avoid the previous 
+   impossibility to recognize the Saint soon after a teleportation. 
+-> The Halo shines blue particles when it's free, to improve visibility 
+   (exp. on GLQuake). 
+-> Deleted unnecessary messages ("You have taken some ammo" and other such 
+   useless stuff). 
+-> "What to do" message at respawning. 
+-> Random respawn spots. 
+-> Optimized Halo movement function (now almost twice as fast, useful on 
+   slow systems). 
+-> Other very minor things and bug fixes. 
+
+
+* 1.01 (05/19/1997) 
+
+-> Corrected a bug that generated "Unknown entities" when starting certain 
+   maps. 
+
+
+* 1.0 (05/15/1997) 
+
+-> First publicly distributed version.

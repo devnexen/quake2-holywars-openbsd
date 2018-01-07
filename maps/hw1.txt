@@ -1,0 +1,55 @@
+------------------------------------------------------------------
+ Title                   : KICK THE P.A.
+ Filename                : kick.bsp
+ Author                  : headshot [Dennis Kaltwasser] 
+ Email Address           : headshot@planetquake.com
+ Description             : My first real Q2 map. Inspired by
+			   Tim Willits' awesome base3.bsp
+			   YOU GO, TIM!
+                          
+ Additional Credits to   : the map designers at id.
+			   Jeff Yost and the gang at the Ramshackle
+			   for intense beta-testing.
+			   Warren Marshall
+			   for figuring out Q2 support for Worldcraft
+			   and answering silly questions.
+			   
+------------------------------------------------------------------
+
+
+* Play Information *
+
+ Settings                : disable falling damage
+			   set sound quality to low
+			   for better performance on slower machines
+ Deathmatch 2-7          : yes, 2-on-2 or 4 ffa recommended
+ Deathmatch 8-100        : I doubt it...
+
+
+* Construction *
+
+ Build Time      : 1 1/2 weeks
+ Compile Time    : 3 minutes all together!
+ Editor(s) used  : Worldcraft, QERadiant 0.32
+ Known Bugs      : some sort of overflow message on map spawn
+		   (34 in 32 something...?), doesn't affect anything
+                   
+
+* Other Info *
+ 
+ This is not part of the upcoming DAPAK2 (Gun_q2 isn't either though it
+ says so in the readme...doh!)
+
+* Distribution *
+
+ Authors MAY NOT use this level as a base to build 
+ additional levels.
+
+ This BSP may be distributed ONLY over the Internet 
+ and/or BBS systems. You are NOT authorized to put 
+ this BSP on any CD or distribute it in any way without 
+ my permission. 
+
+ this is to be freely distributed...if you payed money
+ for it then you more than likely got dicked over.
+

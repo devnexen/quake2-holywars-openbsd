@@ -1,0 +1,78 @@
+About UltraViolence 2
+
+In march '98 my old hard disk crashed hence i lost the source
+of all of my quake maps. Since then i've been asked many times
+to make a conversion of my overrated map Ultraviolence but i was too busy
+with Real Life (TM) for doing any mapping....besides that i wasn't
+sure that the Q2 version could be as fun as the Quake one was.
+Well, a little time ago, the well known AI programmer, Mr. Elusive,
+released his latest creation, a demo of the very promising Gladiator Bot.
+He also included a neat utility for converting (among the rest) a
+.bsp file into a .map file so i tought it was time for converting Ultrav.
+As you will see this is just a cheap copy of my original map
+but optimized and fully tested in the attempt of mantaining that
+old good bloody and berserkesque feeling.....don't expect too much
+tough because WinBSPC 0.9  splits the .map in so many small brushes
+that discouraged me from either re-texturing or modifying the
+original level.
+
+Have a nice day, Escher
+
+P.S. Please, in case you ran across a clearly hacked conversion of
+any of my old quake maps, drop me a line and let me know where to get it.
+P.S.2 If you're a mantainer of a site devoted to review levels,
+please, do NOT support who think that hacking a map and adding a few
+colored lights turns him into a cool mapper.....you just would bring
+discredit on all of those who worked hard for making the quake's world
+a better place to play on.
+P.S.3 Please, please, please, do not send me attachments of your
+conversion made using WinBSPC.....i just won't give you my permission
+to release it even if it looks and plays twice better than the original one.
+
+First Release: 01/20/99
+
+==================================================
+Title                   : UltraViolence for Quake2
+Filename                : UltraV.bsp
+Author                  : Adriano "Escher" Lorenzini
+Email Address           : escher@gib.it
+Description             : Quick conversion of my popular Quake map. 
+Credits to              : Yahn Bernier for BSP
+                          Mr. Elusive for WinBSPC and his amazing Gladiator bot
+                          Tim Wright for ArghRad
+                          Ty Matthews & Neal White III for Wally
+                          Geoff Phillips for Bsp2wad
+                          Steve Winston-Brown for Wad2wal
+                          Rogue Entartainment for textures
+                          iD Software of course.
+===================================================
+
+* Quake Maps *
+
+"UltraViolence" for Quake
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/s-u/ultrav.zip
+
+"Messy Base" (not sure about the exact path, plese check it)
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/m-o/messy.zip
+
+"De Bello Quakero"
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/d-f/debello.zip
+
+"Razzi Amari"
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/p-r/razzi.zip
+
+"The Blue Death"
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/a-c/bdeath.zip
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. And it must not be sold, without permission from the author.
+
+You MAY distribute this BSP, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Greetings from Venice

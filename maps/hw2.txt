@@ -1,0 +1,69 @@
+================================================================
+Title                   : MPQ1 - Fear in your Eyes
+Date                    : 97/12/20
+Filename                : mpq1.bsp
+Author                  : Taskmaster (Warren Marshall)
+Email Address           : tmaster@accessone.com
+Home Page               : www.brutality.com/mpq (DM level reviews!)
+Other maps by author    : Eye Socket (eyesock.zip)
+						  Retinal Tear (rettear.zip)
+						  The Warehouse (warehaus.zip)
+Description             : A new Quake2 DM level. I made this from
+                          scratch so don't be thinking this is ANOTHER
+						  conversion of a Quake1 map.
+
+						  This was made for 2-4 players at the most.  I
+						  really wanted to get this done since id didn't
+						  give us any DM maps with Quake2.  Enjoy!
+
+						  This is also my attempt at using INTELLIGENT
+						  colored lighting.  I think you'll find that
+						  each colored light in this map has a purpose
+						  and is colored for a reason - a light texture,
+						  daylight shining in a window, whatever...
+
+						  BTW, I love feedback.  Glowing reviews and
+						  constructive criticism are always welcome!
+						  Flames help nobody - if you think this
+						  level totally sucks, please explain why.
+
+Additional Credits to   : ID - face Texas and bow!
+                          Ben Morris - this is my first publicly released
+						  map using Worldcraft and I do have to say that
+						  1.5b is finally something I can use!  All previous
+						  maps were done in my editor, ToeTag.  But I can't
+						  go back now!
+
+================================================================
+
+* Play Information *
+
+Single Player           : No.
+Cooperative             : No.
+Deathmatch              : Yes (2-4 players).
+Difficulty Settings     : No.
+New Sounds              : No
+New Graphics            : No.
+New Music               : No
+Demos Replaced          : No.
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft 1.5b (registered)
+Known Bugs              : None.
+Build Time              : A week or so.
+
+* Copyright / Permissions *
+
+All the architecture in this level is made by me, so I have
+the rights to do anything I want with it. 
+
+CD-ROM publishers and other commercial people need my permission before
+they can distribute this level. Also I wouldn't mind getting $1000 or so. :p
+
+Actura Software MAY NOT do anything with these files.
+
+Public distribution via Internet/BBS's without charging money is accepted,
+of course.
+

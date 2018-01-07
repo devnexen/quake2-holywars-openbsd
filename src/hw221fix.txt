@@ -1,0 +1,5 @@
+Holy Wars 2.21 SE server patch
+
+g_ctf.c   - changed menu version string
+hw_main.c - removed CVAR_SERVERINFO attribute from Holy Wars console variables
+Makefile  - for GNU/gcc development

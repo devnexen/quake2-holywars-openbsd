@@ -1,0 +1,50 @@
+Released: January 3, 1998
+==================================================
+Title                   : The Gun (for Quake2)
+			: first map for the upcoming DAPAK2
+
+Filename                : gun_q2.bsp
+
+Author                  : Dennis "headshot" Kaltwasser
+Email Address           : headshot@planetquake.com
+DA PAK Web Site         : http://www.planetquake.com/dapak/
+
+Description             : Quake2 Deathmatch level
+                                                    
+===================================================
+* Play Information *
+
+Game                    : Quake2 reg.
+Map Name                : gun_q2
+Single Player           : No
+Co-op                   : No
+Deathmatch 2-5          : Yes
+
+==================================================
+* Construction *
+
+Base                    : The Gun, map 9 of DAPAK
+Editors used            : modified Worldcraft 1.5b
+Construction time       : 5 days
+Known bugs              : None
+
+==================================================
+
+* Other maps by author*
+
+FSDM1a, FSDM2, FSDM3, UKOOLDM6, QCON1
+Dapak2, Dapak4, Dapak5, Dapak7, Dapak9, Dapak10, Dapak11
+
+
+==================================================
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+This map or any part of it may *NOT* be distributed over any
+medium at this time, or anytime in the future..
+
+ENJOY!
+

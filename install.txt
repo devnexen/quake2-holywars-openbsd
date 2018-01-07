@@ -1,0 +1,6 @@
+To install Holy Wars 2.21 SE, simply unzip the files to your Quake II installation making sure to keep subdirectories.
+
+*NOTE*
+If you have a previous Holy Wars installation, you may wish to backup any customized files before installing.  Once your installation is complete (and tested), you can remove the models, pics, sound, and textures subdirectories.  All of these files are now included in pak0.pak instead.
+
+Refer to readme.txt for additional information.

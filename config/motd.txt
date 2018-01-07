@@ -1,0 +1,18 @@
+// This text file contains the Message of the Day which
+// appears as a player connects to an Holy Wars server.
+// Every line that begins with "//" is considered a comment
+// and ignored.
+// 
+// Warning ! this is the max. len. !
+// for a 320x200 screen.
+// --------------------------------V
+Welcome to Holy Wars 2.21 SE!
+
+Kill the Saint and steal his halo
+to become a Saint yourself.
+
+If you kill innocents, you'll
+become an Heretic!
+
+For more info:
+http://www.planetquake.com/holywars

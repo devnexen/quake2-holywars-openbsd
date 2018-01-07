@@ -1,0 +1,55 @@
+------------------------------------------------------------------
+ Title                   : HW - Infernal Base
+ Filename                : gomdm1.bsp
+ Author                  : Daniel "Gom Jabbar" Leinich
+ Email Address           : leinich@st-oneline.de
+ Description             : Quake2 Deathmatch level.
+ Additional Credits to   : - id Software
+			   - Lithium Software for QOOLE
+			     (http://www.qoole.com)
+			   - Geoffrey DeWan for the GDD Q3 Tools
+			   - Robert A. Duffy for QERadiant
+			     (http://www.planetquake.com/qeradiant/)
+			   - Adriano "Escher" Lorenzini and
+			     Dennis "Headshot" Kaltwasser for givin´ 
+			     me some advice and for making
+			     such awesome maps!
+			   - Florian Schmitz and Sebastian Sasse for
+			     testing
+			   - The HolyWars Team for including my map in
+			     HolyWars2 and for this awesome MOD!			
+------------------------------------------------------------------
+
+
+* Play Information *
+
+ Game		         : Quake 2
+ Deathmatch 2-4          : yeah
+ Deathmatch 5-100        : uhm, i don´t think so...
+
+
+* Construction *
+
+ Build Time      : 1 week
+ Compile Time    : 10 minutes all together
+ Editor(s) used  : QOOLE v2.31, QERadiant v0.32
+ Known Bugs      : none... let me know if you find any
+                   
+
+* Other Info *
+
+ This map features no coloured light cause I don´t own an OpenGL
+ compatible GFX-card and I won´t buy one until VOODOO2 is available
+
+ Any comments, positive or negative, are welcome! 
+ ... well, at least positive ones ;)
+
+* Copyright / Permissions *
+
+ Authors MAY NOT use this level as a base to build 
+ additional levels.
+
+ This BSP may be distributed ONLY over the Internet 
+ and/or BBS systems. You are NOT authorized to put 
+ this BSP on any CD or distribute it in any way without 
+ my permission. 

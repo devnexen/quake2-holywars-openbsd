@@ -1,0 +1,62 @@
+Installation
+=============
+
+Extract this archive in your quake2\baseq2 directory, keeping the directory structure in the zip.
+This is needed to put the custom texture files and the map in the right directory.
+
+================================================================
+
+Title                   : The Dark Zone
+Filenames               : mapfile: q1dm6.bsp | custom texture files: city2_6.wal, city2_7.wal, city2_8.wal, city4_2.wal, cop1_1.wal
+											   cop1_7.wal, grnd1_5.wal, metal4_4.wal, teleport.wal, wmet4_8.wal  
+Author(s)               : DaTa.SwS
+Email Address           : vandijkx@wxs.nl
+Description             : This is an exact replica of q1's dm6 (architecture, textures, light). The item placement is also much the same,
+				  but because of the extra ammo and weapons in q2 I had to change some things.
+				  I didn't include the Railgun and the BFG, because I think they ruin gameplay.
+Additional Credits to   : My clan (Sqeletons with Style) for playtesting.
+				  ID Software (ofcourse) for making quake2 and quake1 (from wich I got the custom textures)	
+
+================================================================
+
+* Play Information *
+
+
+Level Name              : The Dark Zone
+
+Single Player           : yes, for looking around
+Cooperative 	 	: no
+Deathmatch 			: yes
+Difficulty Settings     : no
+
+New Sounds              : no
+New Graphics            : yes, 10 new textures
+Sound Track             : no
+Demos Replaced          : no
+.map   Included         : no
+
+* Construction *
+
+Base            : New build from scratch  
+Build Time      : about a week
+
+Times & stats   :System Used      : p166, 64 mb ram             
+                 Qbsp3            : 25 secs 
+                 qVis3 (-level 4) : 4380 secs
+                 qRad3 (-extra)   : 442 secs
+
+Editor(s) used  : Quark
+Known Bugs      : none
+
+* Legal Stuff *
+--------------------------
+
+q1dm6.bsp may only be distributed provided this text file remains intact.
+
+Standard disclaimer: I will not be held responsible for any damage to your 
+hardware or software caused by using these files.
+
+Under no circumstances shall this level be sold by others in a Level Bundle software
+package without my express permission.
+
+

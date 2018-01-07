@@ -1,0 +1,65 @@
+================================================================
+Title                   : Fingers' 1st Quake2 Deathmatch level
+Date                    : 12/27/97 
+Filename                : ikdm1.bsp
+Author                  : Iikka "Fingers" Keranen
+                          (use "&auml;" for "a" in the last name in html)
+Email Address           : ikeranen@mail.student.oulu.fi
+Home Page               : www.planetquake.com/ikq/ (visit there!)
+Snail Mail Address      : Iikka keranen
+(send me your money!-)    Kiiskitie 4
+                          FIN-93400 Taivalkoski
+                          Finland
+Description             : Not very ambitious DM level. Simply enough, my
+                          first ever Quake2 level after all. Should be OK
+                          for like 2-4 players DM. Mostly experiments in
+                          making Quake2-like appearance, each room has a
+                          slightly different colour scheme etc... But I'm
+                          anyway pretty satisfied with it, and it shows
+                          some potential ;)  (Oh well, don't let this text
+                          make you think this level's crap... Go to my home
+                          page to see what I'm comparing it to =)
+
+Additional Credits to   : ID, and the other guys at ION who even got their
+                          Quake2 DM maps out before me! :)
+
+================================================================
+
+* Play Information *
+
+Single Player           : Look around only.
+Deathmatch              : Yes, preferably 2-4 players.
+Difficulty Settings     : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : QE4 from ID software <- pain with 2-button mouse
+Known Bugs              : No.
+Build Time              : 3 days... Doesn't that mean 72 hours?-)
+
+Textures used           : e1u1 set from Quake2
+
+Compile machine         : P150 with 48M (NT4) 
+QBSP Time               : 18 sec
+QVIS Time (level 4)     : 39 sec
+QRAD Time (extra)       : 391 sec
+Brushes                 : 500-1000... Dunno.
+Entities                : Not many
+Models                  : 2
+
+* Other Info *
+
+I'll do better next time, I promise. ;-)
+
+* Copyright / Permissions *
+
+You may not do anything you'd regret afterwards...
+
+Actura Software MAY NOT do anything with these files.
+
+Public distribution via Internet/BBS's without charging money is accepted,
+of course.
+
+Magazine cover CD's are generally okay if you ask me first, and send me a
+free copy.
